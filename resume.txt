@@ -1,0 +1,38 @@
+
+SUMMARY
+⮚ Overall 6.5 years of experience as an AWS Cloud Data Engineer and 1 year as an ETL/SQL Developer
+⮚ Experienced working in AWS cloud computing platform and many dimensions of scalability including
+Pyspark, SQL, Glue, Databricks, EMR, Lambda, Step function, Redshift, DynamoDB, RDS, EC2,
+SQS, SNS
+⮚ Experienced in building pipelines for clients using Glue using glue studio and applied custom
+transformation based on the business needs
+⮚ Strong experience in building ETL pipeline using Pyspark
+⮚ Good knowledge in SQL to write complex queries in order to achieve client’s requirements
+⮚ Good experience in Python application development with AWS resource access using Boto3 Lib
+⮚ Commanding knowledge in Shell scripting to build and deploy Cron type scheduled jobs
+⮚ Good knowledge in creating Lambda functions which have various trigger resources and event triggers
+⮚ Worked in spark optimization and working in data models
+⮚ Good knowledge to work in various databases such as Oracle, Postgres, MySQL
+TECHNICAL SKILLS
+Programming/Scripting : Python, Pyspark, SQL, shell scripting
+AWS Service : Glue, EMR, Databricks, Redshift, Athena, RDS, S3, EC2,
+Lambda, Cloud Watch, SQS, SNS
+Automation Tools : CRON jobs, Rundeck, Autosys
+Versioning tools : GitHub, Code Commit
+Operating Systems : Microsoft Windows Server 2008/12/16, Linux
+Ticketing Tool : Hp alm, JIRA
+Tools : SQL workbench, Rundeck, Hadoop
+PROFESSIONAL EXPERIENCE
+SPARKVIZ TECHNOLOGIES PVT LTD (Oct 2023 – Present)
+Designation: AWS Data Engineer
+Project:
+⮚ About my latest project architecture, we used to receive data in S3 and we process the data using Glue
+where we used to apply the transformations of the clients and we will be loading it into the Redshift table
+⮚ This will be done as two phases, first we will receive the data in s3 for every 1 hour and this will be
+dumped to source S3 location, then using a glue job we used to fetch this data and push into a landing layer
+which is another S3 bucket and also same data will be pushed to Kinesis firehose and this will be copied to
+redshift tables. So, this Redshift tables will be expose to my data analytics and data scientists team for
+report purpose
+⮚ So, this is the latest project I was working with and we have worked with different pipelines that have been
+attached to our systems. Also we have ETL pipelines that are running in Data bricks jobs and also we will
+create standalone scripts written in PySpark and submitted in EMR cluster as well.
